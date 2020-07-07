@@ -30,4 +30,4 @@ config.py
 
 ## запустить скрипт
 
-> python main.py
+\$ python main.py
