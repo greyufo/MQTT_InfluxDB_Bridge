@@ -1,10 +1,12 @@
 # MQTT InfluxDB Python Bridge
 
+Скрипт трансляции по подписке записей из MQTT в базу InfluxeDB  для вывода в Grafana. Использовался скрипт для устройства Sonoff  c прошивкой Tasmoto
+
 ## Сделайте виртуальное окружение для питона
 
 \$ python3 -m venv env
 
-## активируйте окружение
+## Активируйте окружение
 
 \$ source env/bin/activate
 
